@@ -1,0 +1,91 @@
+# Python缓存
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 虚拟环境
+fish_env/
+fish_env_py38/
+fish_env_38/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志文件
+*.log
+
+# 临时文件
+tmp/
+uploads/
+.DS_Store
+*.pkl
+*.pth
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 模型文件 (可选择性忽略大模型文件)
+# *.pth
+# *.h5
+# *.onnx
+
+# 数据集文件 (如果太大可以忽略)
+# dataset/
+# *.zip
+
+# 训练输出
+training_output/
+model_checkpoints/
+
+# 图片文件（排除文档用图片）
+# *.png
+# *.jpg
+# *.jpeg
+
+# 允许文档展示图片
+!fish1.png
+!begin.jpg
+!end.jpg
+!fish_*.png
+
+# 系统文件
+Thumbs.db
+*.tmp
+.env
+
+# 配置文件
+config.json
+secrets.json
+
+# 模型文件（太大的话）
+# *.pth
+# *.pt
+
+# 测试图片（可选）
+# begin.jpg
+# end.jpg
+# fish_*.png

@@ -1,0 +1,10 @@
+val/Abudefduf_vaigiensis/fish_003427825288_17825.png	0
+val/Abudefduf_vaigiensis/fish_000011109595_03645.png	0
+val/Acanthurus_nigrofuscus/fish_000026470001_02613.png	1
+val/Acanthurus_nigrofuscus/fish_003722805870_25909.png	1
+val/Amphiprion_clarkia/fish_003421845277_20256.png	2
+val/Amphiprion_clarkia/fish_003421785277_20227.png	2
+val/Balistapus_undulates/fish_000021850001_01852.png	3
+val/Balistapus_undulates/fish_000021820001_01833.png	3
+val/Canthigaster_valentine/fish_003571805521_20317.png	4
+val/Canthigaster_valentine/fish_004566767394_19247.png	4

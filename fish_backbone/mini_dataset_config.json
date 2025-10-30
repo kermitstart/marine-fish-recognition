@@ -1,0 +1,40 @@
+{
+  "dataset_root": "./mini_dataset",
+  "num_classes": 5,
+  "classes": [
+    "Abudefduf_vaigiensis",
+    "Acanthurus_nigrofuscus",
+    "Amphiprion_clarkia",
+    "Balistapus_undulates",
+    "Canthigaster_valentine"
+  ],
+  "train_samples": 40,
+  "val_samples": 10,
+  "class_stats": {
+    "Abudefduf_vaigiensis": {
+      "train": 8,
+      "val": 2,
+      "total": 10
+    },
+    "Acanthurus_nigrofuscus": {
+      "train": 8,
+      "val": 2,
+      "total": 10
+    },
+    "Amphiprion_clarkia": {
+      "train": 8,
+      "val": 2,
+      "total": 10
+    },
+    "Balistapus_undulates": {
+      "train": 8,
+      "val": 2,
+      "total": 10
+    },
+    "Canthigaster_valentine": {
+      "train": 8,
+      "val": 2,
+      "total": 10
+    }
+  }
+}
